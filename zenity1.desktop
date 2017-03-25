@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Zenity test
+Comment=Zenity test
+Exec=/media/gentley/manlug/manlug_talks/zenity/zenity_1.sh
+Icon=//media/gentley/manlug/manlug_talks/zenity/tux.svg
+#Terminal=false
+Type=Application
+Categories=Network;FileTransfer;Game;
+MimeType=x-scheme-handler/steam;
+Actions=Store;Community;Library;Servers;Screenshots;News;Settings;BigPicture;Friends;
+Name[en_GB]=Zenity test 
+Comment[en_GB]=Zenity test
+GenericName[en_GB]=Zenity test
